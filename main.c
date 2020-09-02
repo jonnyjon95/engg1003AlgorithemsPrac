@@ -24,7 +24,8 @@
 //Task 4
 int main()
 {
-    float rad, area, pi=3.14;
+    float rad, area;
+    const float pi=3.14152;
 
     //input
     printf("Enter the radius in cm: ");
